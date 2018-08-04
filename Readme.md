@@ -2,5 +2,5 @@
 
 Esses dois programas simples...
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image do arduino e python](https://sempreupdate.com.br/wp-content/uploads/2018/05/python-arduino.png)
 
